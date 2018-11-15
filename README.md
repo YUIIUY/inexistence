@@ -11,10 +11,10 @@
 ## Usage
 
 ```
-bash -c "$(wget --no-check-certificate -qO- https://github.com/Aniverse/inexistence/raw/master/inexistence.sh)"
+bash -c "$(wget --no-check-certificate -qO- https://github.com/YUIIUY/inexistence/raw/master/inexistence.sh)"
 ```
 ```
-wget --no-check-certificate -qO inexistence.sh https://github.com/Aniverse/inexistence/raw/master/inexistence.sh
+wget --no-check-certificate -qO inexistence.sh https://github.com/YUIIUY/inexistence/raw/master/inexistence.sh
 bash inexistence.sh
 ```
 
